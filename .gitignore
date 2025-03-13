@@ -1,0 +1,9 @@
+# .gitignore
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+.env
+*.log
+.DS_Store
+test/
+# *.test.js (comentei para permitir bot.test.js)
