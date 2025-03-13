@@ -28,9 +28,8 @@
   "scripts": {
     "start": "node index.js",
     "test": "jest"
-  },
+  }, 
   "engines": {
-    "node": "16.x",
-    "npm": "8.x"
-  }
+  "node": ">=18"
+}
 }
